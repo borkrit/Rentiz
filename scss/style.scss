@@ -1,0 +1,18 @@
+// include fonts
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:regular,500,600&display=swap");
+
+// Color
+$bg-color: #121B25;
+$color-text: #D6D6D6;
+$accent-color:#1AA090;
+
+
+[class*="__container"]{
+    max-width: 1420px;
+    margin: 0 auto;
+    
+}
+
+body{
+    background-color: $bg-color;
+}

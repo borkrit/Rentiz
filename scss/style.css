@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:regular,500,600&display=swap");
+[class*=__container] {
+  max-width: 1420px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #121B25;
+}/*# sourceMappingURL=style.css.map */
